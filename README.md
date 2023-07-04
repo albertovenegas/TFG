@@ -1,0 +1,3 @@
+# TFG_AlbertoVenegas
+Herramienta desarrollada por Alberto Venegas Martínez, alumno de Ingeniería de Telecomunicaciones de la Universidad de Granada, para la realización del Trabajo Fin de Grado.
+Esta herramienta tiene como objetivo simplificar las tareas que se deben llevar acabo para realizar auditorías de cumplimiento del ENS. Esto se consigue  permitiéndole al auditor anotar que mecanismos se encuentran implementados y cuáles no y almacenando dicha información en una base de datos de manera que permita su posterior análisis y la obtención de conclusiones para la elaboración del informe de auditoría.
